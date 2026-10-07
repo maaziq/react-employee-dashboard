@@ -1,7 +1,6 @@
 *{
     margin:0;
     box-sizing: border-box;
-    /* color: #F5EFE3; */
 }
 
 .form-wrapper{
@@ -18,17 +17,19 @@
     height: 60%;
     width: 50%;
     background-color: #4F5B2A ;
+    color: #F5EFE3;
     border-radius: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 14px;
+    gap: 3%;
     font-size: 24px;
 }
 
 input{
     background-color: #F5EFE3;
+    color: #4F5B2A;
     border: none;
     outline: none;
     height: 40px;
@@ -42,6 +43,8 @@ button{
     height: 35px;
     width: 35%;
     border: none;
+    background-color: rgb(49, 49, 225);
+    color: #F5EFE3;
     border-radius: 9px;
     font-size: 15px;
 }
