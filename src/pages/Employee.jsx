@@ -22,7 +22,7 @@ function Employee() {
 
   return (
     <div className='form-wrapper'>
-        <h1>Employee portal</h1>
+        <h1>––––Employee portal––––</h1>
         <br /><br />
         <form action="" onSubmit={handleForm}>
 
